@@ -1,4 +1,4 @@
-//your JS//your JS code here. If required.
+//your JS code here. If required.
 const res = document.getElementById("output");
 
 const promises = [
@@ -50,4 +50,4 @@ async function callFns() {
             </tr>
           `;
 }
-callFns(); code here. If required.
+callFns();
